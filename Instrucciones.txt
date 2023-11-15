@@ -45,10 +45,12 @@ git status -s: Solo muestra lo que esta en los archvios verde listo para comenta
 git diff: muestra las diferencia entre los archvios
 git --staged : muestra el estado de las diferencias
 
-git loc -- onelne
+git log --oneline: para mira el historial de los cambios
 ### CREACION DE RAMAS
 
 git branch: dice cual rama estamos
 git checkout -b nombre_rama
+
+cat nombre_Archivo muestra el contenido del artchivo
 
 
