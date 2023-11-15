@@ -53,4 +53,9 @@ git checkout -b nombre_rama
 
 cat nombre_Archivo muestra el contenido del artchivo
 
+### Hacer merge entre RAMAS
+
+
+
+
 
