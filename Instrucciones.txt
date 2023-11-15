@@ -32,5 +32,9 @@ git add nombrearchivo.extensión  lo pasamos a estado de estatus
 
 git commit -m " Se escribe un comentario sobre los cambios realizados"
 
+git commit -a: abre el visual para poner el cambio, se agrega en vc y se da guardad
 
+git rm nombre.archivo.txt: elimina archvios 
+
+git restore nombre archivo: restaura archvios
 
