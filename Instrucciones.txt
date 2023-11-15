@@ -38,3 +38,17 @@ git rm nombre.archivo.txt: elimina archvios
 
 git restore nombre archivo: restaura archvios
 
+mv nombre-archivo.txt nuevo_nombre.txt
+
+git status -s: Solo muestra lo que esta en los archvios verde listo para comentar
+
+git diff: muestra las diferencia entre los archvios
+git --staged : muestra el estado de las diferencias
+
+git loc -- onelne
+### CREACION DE RAMAS
+
+git branch: dice cual rama estamos
+git checkout -b nombre_rama
+
+
