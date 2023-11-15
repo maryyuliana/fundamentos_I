@@ -28,3 +28,9 @@ code . =abre la visual code en la carpeta que estamos ubicados
 git status = dice el estado, si hay comit
 git add nombrearchivo.extensión  lo pasamos a estado de estatus
 
+## Si yo le doy git add nombrearchivo el va a agregar pero no esta comentado
+
+git commit -m " Se escribe un comentario sobre los cambios realizados"
+
+
+
