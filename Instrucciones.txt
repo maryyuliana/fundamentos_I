@@ -55,6 +55,8 @@ cat nombre_Archivo muestra el contenido del artchivo
 
 ### Hacer merge entre RAMAS
 
+git merge ramba # Hay que esta parado en la rama
+
 
 
 
