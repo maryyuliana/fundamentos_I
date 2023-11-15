@@ -1,0 +1,30 @@
+Esta son las instrucciones de git
+
+
+
+git config --global = abre la configuracion global
+
+
+git config --global user.name "Mary Yuliana Jaramillo" # agrego el nombre usario
+
+git config --global user.email maryyuliana@gmail.comm" agrego el correo
+
+git config --global core.editor "code --wait" # configura el visual studio 
+git config --global -e # Para ver la confirguración
+git config --global core.autocrlf true ## configuración de salto linea
+
+
+
+
+##Comandos
+ls = listar todas las carpetas que tiene
+pwd = donde se encuentran dentro de 
+cd = dice en que carpeta
+cd .. devolver de directorio
+mkdir = crea un directorio
+git init = inicializa el git repositorio
+ls -a =muestra las carpetas ocultas
+code . =abre la visual code en la carpeta que estamos ubicados
+git status = dice el estado, si hay comit
+git add nombrearchivo.extensión  lo pasamos a estado de estatus
+
