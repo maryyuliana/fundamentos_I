@@ -65,7 +65,7 @@ git push : para subir los cambios
 git push  -u: para indicar que cree la rama
 git push -u origin main : en origen la rama se llame main en mi caso master
 
-
+# cree la rama Yuliana para
 
 
 
