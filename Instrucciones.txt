@@ -1,4 +1,4 @@
-Esta son las instrucciones de git
+giEsta son las instrucciones de git
 
 
 
@@ -64,6 +64,8 @@ git merge ramab # Hay que esta parado en la rama principal y llamar  los cambios
 git push : para subir los cambios
 git push  -u: para indicar que cree la rama
 git push -u origin main : en origen la rama se llame main en mi caso master
+
+
 
 
 
