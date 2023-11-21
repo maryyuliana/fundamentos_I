@@ -1,7 +1,7 @@
 giEsta son las instrucciones de git
 
 
-
+1111111
 git config --global = abre la configuracion global
 
 
