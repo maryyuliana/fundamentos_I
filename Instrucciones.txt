@@ -72,4 +72,4 @@ git push -u origin main : en origen la rama se llame main en mi caso master
 
 
 
-
+ssh-keygen -t ed25519 -C "your_email@example.com"
