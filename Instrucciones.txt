@@ -7,7 +7,7 @@ git config --global = abre la configuracion global
 
 git config --global user.name "Mary Yuliana Jaramillo" # agrego el nombre usario
 
-git config --global user.email maryyuliana@gmail.comm" agrego el correo
+git config --global user.email maryyuliana@gmail.com" agrego el correo
 
 git config --global core.editor "code --wait" # configura el visual studio 
 git config --global -e # Para ver la confirguración
@@ -49,7 +49,7 @@ git log --oneline: para mira el historial de los cambios
 ### CREACION DE RAMAS
 
 git branch: dice cual rama estamos
-git checkout -b nombre_rama
+ nombre_rama
 
 cat nombre_Archivo muestra el contenido del artchivo
 
@@ -67,9 +67,11 @@ git push -u origin main : en origen la rama se llame main en mi caso master
 
 # cree la rama Yuliana para
 
+### Llamar ramas remotas
+
+git branch -r
 
 
 
 
-
-
+ssh-keygen -t ed25519 -C "your_email@example.com"
